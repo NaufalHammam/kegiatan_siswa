@@ -245,7 +245,7 @@
 	<div id="tampilan_laporan" class="container item-center">
 		<div class="card">
 			<div class="card-header text-center">
-				<h3 class="card-title">Isi data kegiatan</h3>
+				<h3 class="card-title">Laporan kegiatan</h3>
 			</div>
 			<div class="card-body">
 				<div class="row">
